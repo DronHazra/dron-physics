@@ -6,7 +6,7 @@ description: "Hello World"
 
 This is my first post on my new fake blog! How exciting!
 
-I'm sure I'll write a lot more interesting things in the future.
+I'm sure I'll write a lot more interesting things in the future. [^this is a footnote]
 
 Oh, and here's a great quote from this Wikipedia on
 [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).

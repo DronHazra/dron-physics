@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `dron's physics:) `,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `dron`,
+      summary: `who is currently existing.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `a website to contain progress on a personal physics project.`,
+    siteUrl: `https://dronhazra.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `_dron_h`,
     },
   },
   plugins: [
