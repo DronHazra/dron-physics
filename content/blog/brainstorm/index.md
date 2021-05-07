@@ -19,7 +19,7 @@ I've got brief explanations for each of these.
 
 I've read and watched videos about physics simulations, especially simulating realistic bread (???) and fluid flow. I doubt I'll be able to scrape the bleeding edge, as it were, but I want to understand the physics behind physical simulations and see if I can build my own simulation engine.
 
-As for quantum cryptography, my idea is to explore the cryptographical proofs of security and to build a demo [^I say build here, but I can see myself building a software version rather than actual lasers and stuff. I also don't have lasers, which might be an issue:)], like the one we played with at IQC.
+As for quantum cryptography, my idea is to explore the cryptographical proofs of security and to build a demo ^[I say build here, but I can see myself building a software version rather than actual lasers and stuff. I also don't have lasers, which might be an issue:)], like the one we played with at IQC.
 
 Now for the last one, it's kind of vague, and that's on purpose. There's a wave of math exposition content out there, especially with the outstanding videos done by [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw). I wonder if I can do a similar thing, probably starting in written format, where I explore some basic quantum principles and see what math led to them. To be honest, I don't actually know anything about quantum physics, other than it has something to do with probability distributions, $cos^2 x$, wave functions ($\Psi$). Let's see how far my math fundamentals can take me:)
 
