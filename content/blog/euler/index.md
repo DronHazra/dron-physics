@@ -10,7 +10,7 @@ Progress update, split in 2 parts: technical and other.
 So I learned about Euler's method (of numerical integration) and that seemed like a perfectly logical place to start. Here's the projectile motion one I promised:
 
 <video width="320" height="240">
-  <source src="ProjectileMotion.mp4" type="video/mp4">
+  <source src="./ProjectileMotion.mp4" type="video/mp4">
 </video>
 
 Looks a little choppy...
@@ -18,7 +18,7 @@ Looks a little choppy...
 Now for where Euler hath failed me:
 
 <video width="320" height="240">
-  <source src="SpringMass.mp4" type="video/mp4">
+  <source src="./SpringMass.mp4" type="video/mp4">
 </video>
 
 What the heck is going on here?
@@ -26,7 +26,7 @@ What the heck is going on here?
 Energy isn't being conserved (I'm glad Mr. Fong didn't test this with his face on the line). Part of the problem is that my framerate is too low. I rendered the same code at 60fps:
 
 <video width="320" height="240">
-  <source src="SpringMass1.mp4" type="video/mp4">
+  <source src="./SpringMass1.mp4" type="video/mp4">
 </video>
 
 It's better, but energy still isn't being conserved.
